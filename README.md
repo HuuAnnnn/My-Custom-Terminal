@@ -6,7 +6,7 @@
 
 Create folder at ~: mkdir .config/powershell
 Go to: Settings > Defaults > Appearance > Choose One Half Dark (modded) > Font Hack NF
-Choose Acrylic: 24%
+Choose Acrylic: 56%
 
 ### One Half Dark (Modded):
 Open Setting(JSON) > Clone One Half Dark > change "background": "#282C34" to "background": #001B26"
