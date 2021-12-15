@@ -1,4 +1,4 @@
-### Install font: Hack Nerds Font [link](./Font)
+### Install font: [Hack Nerds Font](./Font)
 ### Require: 
 + Powershell [Microsoft](https://www.microsoft.com/vi-vn/p/powershell/9mz1snwt0n5d?activetab=pivot:overviewtab)
 + Terminal [Microsoft](https://www.microsoft.com/vi-vn/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
