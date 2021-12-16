@@ -5,6 +5,7 @@
 
 
 Create folder at ~: mkdir .config/powershell
+
 Go to: Settings > Defaults > Appearance > Choose One Half Dark (modded) > Font Hack NF
 Choose Acrylic: 56%
 
