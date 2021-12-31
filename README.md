@@ -15,6 +15,7 @@ Open Setting(JSON) > Clone One Half Dark > change "background": "#282C34" to "ba
 ### Add config:
 + nvim ./config/powershell/user_profile.ps1 [config](./config)
 + nvim $PROFILE.CurrentUserCurrentHost
++ Content: . $env:USERPROFILE\.config\powershell\user_profile.ps1
 
 ### Install module:
 + Install Scoop: iwr -useb get.scoop.sh | iex
